@@ -27,7 +27,7 @@ Smart Email Assistant is a Chrome Extension that enhances Gmail by generating AI
 
 * Spring Boot (Java)
 * REST API
-* AI Integration (OpenAI / Gemini)
+* AI Integration ( Gemini)
 
 ---
 
